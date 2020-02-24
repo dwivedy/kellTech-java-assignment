@@ -36,7 +36,7 @@ public interface TempTrackerInterface {
 	/**
 	 * returns the mode temperature
 	 * 
-	 * @return int:returns the mode temperature
+	 * @return float:returns the mode temperature
 	 * @throws Exception
 	 */
 	int get_mode() throws Exception;
